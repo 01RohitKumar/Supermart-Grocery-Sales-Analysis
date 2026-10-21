@@ -29,7 +29,7 @@ This project analyzes Supermart grocery sales data using Microsoft Excel to iden
 - ## Dashboard Preview
 
 ![Main Dashboard](Screenshots/DASH1.png)
-(Screenshots/DASH2.png)
+![Main Dashboard](Screenshots/DASH2.png)
 
 ## Project Structure
 - `README.md` — Project overview and documentation
