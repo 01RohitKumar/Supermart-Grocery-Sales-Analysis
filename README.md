@@ -31,6 +31,12 @@ This project analyzes Supermart grocery sales data using Microsoft Excel to iden
 ![Main Dashboard](Screenshots/DASH1.png)
 ![Main Dashboard](Screenshots/DASH2.png)
 
+### Monthly Sales Trend
+![Monthly Sales Trend](Screenshots/DASH3.png)
+
+### Category Sales Share
+![Category Sales Share](DASH4.png)
+
 ## Project Structure
 - `README.md` — Project overview and documentation
 - `Screenshots/` — Dashboard and chart screenshots
